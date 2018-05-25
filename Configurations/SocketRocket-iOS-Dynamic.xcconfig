@@ -13,5 +13,6 @@
 PRODUCT_NAME = SocketRocket
 PRODUCT_BUNDLE_IDENTIFIER = com.facebook.socketrocket.ios
 IPHONEOS_DEPLOYMENT_TARGET = 8.0
+CURRENT_PROJECT_VERSION = 0.5.1
 
 INFOPLIST_FILE = $(SRCROOT)/SocketRocket/Resources/Info.plist
